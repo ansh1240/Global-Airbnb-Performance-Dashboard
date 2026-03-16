@@ -46,9 +46,11 @@ The dashboard helps in:
 ### Key Visuals
  
 #### 1.  KPI Cards 
- - Total listings
- - verified hosts
- - other key metrics
+- Total listings
+  
+- verified hosts
+  
+- other key metrics
   
 #### 2. Line Chart
 – Monthly reviews trend
