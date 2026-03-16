@@ -78,3 +78,4 @@ Listings - https://drive.google.com/file/d/1Rz0phcmdicVFnOIz60zdjXDXfkOrUVia/vie
         
 Reviews -  https://drive.google.com/file/d/1wPIrDGHQyc3uL5kiIR8OtDJrJvKkJkfx/view?usp=sharing   
 
+### Dashboard: https://drive.google.com/file/d/1VaTrsGS5g-KSZ_OBDPFxW_G-uY0-R2iq/view?usp=sharing
