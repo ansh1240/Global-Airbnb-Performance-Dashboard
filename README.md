@@ -73,7 +73,8 @@ The dashboard provides valuable insights such as:
 4. Analyzing which locations have the highest number of listings
 These insights can help businesses improvehost management, build trust with customers, and make better strategic decisions.
 
-## 6. Screenshorts
-
-### Dashboard Preview
+### Dataset Link :
+Listings - https://drive.google.com/file/d/1Rz0phcmdicVFnOIz60zdjXDXfkOrUVia/view?usp=sharing
+        
+Reviews -  https://drive.google.com/file/d/1wPIrDGHQyc3uL5kiIR8OtDJrJvKkJkfx/view?usp=sharing   
 
